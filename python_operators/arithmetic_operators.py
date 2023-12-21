@@ -1,0 +1,8 @@
+first_num = int(input("Enter First Number : "))
+second_num = int(input("Enter First Number : "))
+print("Addition of numbers is : ",first_num+second_num)
+print("Subtraction of numbers is : ",first_num-second_num)
+print("Multiplication of numbers is : ",first_num*second_num)
+print("Division of numbers is : ",first_num/second_num)
+print("Exponent of numbers is : ",first_num**second_num)
+print("Floor Division of numbers is : ",first_num//second_num)
