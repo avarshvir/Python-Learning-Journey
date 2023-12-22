@@ -1,0 +1,4 @@
+constructor is a special type of method used to initialize the object. It is automatically called when object is created.
+There are two types of constructors:
+-> Parameterized Constructor
+-> Non-Parameterized Constructor
