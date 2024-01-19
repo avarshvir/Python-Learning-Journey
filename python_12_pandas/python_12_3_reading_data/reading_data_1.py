@@ -20,3 +20,4 @@ print(ccd)
 #mask
 mask = (countries_covid_data["Country"] == "India") & (countries_covid_data["Date"] == "2021-02-01")
 print(countries_covid_data[mask])
+
