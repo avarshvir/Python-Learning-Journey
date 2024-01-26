@@ -1,7 +1,7 @@
 #accessing and modifying pixel values
 import numpy as np
 import cv2
-img = cv2.imread(r'\python_14_opencv\images1\image1.png',1)
+img = cv2.imread(r'E:\Python Project\Python Learning Journey\Python-Learning-Journey\python_14_opencv\images1\image1.png',1)
 print(img.shape)
 
 pixel = img[10,18]
