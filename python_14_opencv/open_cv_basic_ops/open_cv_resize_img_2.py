@@ -1,5 +1,5 @@
 import cv2
-img = cv2.imread(r'..\Python-Learning-Journey\python_14_opencv\images1\image1.png',1)
+img = cv2.imread(r'E:\Python Project\Python Learning Journey\Python-Learning-Journey\python_14_opencv\images1\image1.png',1)
 scale = 60
 #scale2 = 160
 
