@@ -20,9 +20,12 @@ for i in range(len(a)):
 
 print("Range function")
 print(range(15))
-
 print(list(range(15)))
 
 print(list(range(4, 9)))
 
 print(list(range(5, 25, 4)))
+
+print("using for loop in another way")
+for i in a[0:5]:
+    print(a)
