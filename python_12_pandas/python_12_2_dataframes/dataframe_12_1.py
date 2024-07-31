@@ -4,6 +4,7 @@ data = {
     "BiteForce" : [600,1000,600,1500,400,1500,450,600]
 }
 #load data into a DataFrame object:
+print(data)
 df = pd.DataFrame(data)
 print(df)
 
