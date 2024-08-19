@@ -19,9 +19,9 @@ ax.scatter(x, y, z, c='blue', marker='o')
 
 # Add titles and labels
 ax.set_title('3D Scatter Plot')
-ax.set_xlabel('X axis')
-ax.set_ylabel('Y axis')
-ax.set_zlabel('Z axis')
+ax.set_xlabel('X-axis')
+ax.set_ylabel('Y-axis')
+ax.set_zlabel('Z-axis')
 
 # Show the plot
 plt.show()
