@@ -1,0 +1,18 @@
+'b'	Using for the blue marker with default shape.
+'ro'	Red circle
+'-g'	Green solid line
+'--'	A dashed line with the default color
+'^k:'	Black triangle up markers connected by a dotted line
+
+-----------------------------------------------------------------------
+The matplotlib supports the following color abbreviation:
+
+Character	Color
+'b' Blue
+'g'	Green
+'r'	Red
+'c'	Cyan
+'m'	Magenta
+'y'	Yellow
+'k'	Black
+'w'	White
