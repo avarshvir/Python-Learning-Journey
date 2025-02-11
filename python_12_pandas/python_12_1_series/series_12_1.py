@@ -16,7 +16,11 @@ print(ind)
 #Key/Value Objects as Series
 #The keys of the dictionary become the labels.
 print("Key/Value Objects as Series...")
-calories = {"day1": 421, "day2": 380, "day3": 390}
+calories = {
+    "day1": 421, 
+    "day2": 380, 
+    "day3": 390
+    }
 myvar = pd.Series(calories)
 print(myvar)
 print(myvar["day1"])
