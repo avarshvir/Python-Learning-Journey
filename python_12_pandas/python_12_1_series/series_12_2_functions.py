@@ -16,6 +16,6 @@ print(np.std([6,9,15,2,-17,15,4]))
 Series.to_frame()
 syntax -> Series.to_frame(name=None)  
 '''
-s = pd.Series(["a", "b", "c"],
-name="vals")
+s = pd.Series(["a", "b", "c"],name="vals")
+#print(s)
 print(s.to_frame())
