@@ -14,6 +14,7 @@ print(countries_covid_data.loc[160000])
 print(countries_covid_data.set_index("Country").loc["India"])
 
 #query
+print("Query____________________________")
 ccd = countries_covid_data.query("(Country == 'India') & (Date == '2021-01-01')")
 print(ccd)
 

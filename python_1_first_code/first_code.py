@@ -5,10 +5,9 @@ IDE                  : Pycharm
 Instagram            : @avarshvir
 Linkedin             : arshvir
 Github               : avarshvir
-Gitlab               :
-StackOverFlow        :
+Gitlab               : arshvir
+StackOverFlow        : arshvir
 
 '''
 
 print("Hello Python :)")
-print("Git Prac")
