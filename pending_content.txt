@@ -1,0 +1,10 @@
+7-4 polymorphism
+7-5 encapulation
+
+database
+multithreading
+networking
+graphics
+opencv
+regex
+date
