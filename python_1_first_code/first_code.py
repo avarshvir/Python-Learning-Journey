@@ -1,7 +1,7 @@
 '''
 Developer Name       : Arshvir
 Programming Language : Python
-IDE                  : Pycharm
+IDE                  : Pycharm || VsCode || Jupyter Notebook
 Instagram            : @avarshvir
 Linkedin             : arshvir
 Github               : avarshvir
